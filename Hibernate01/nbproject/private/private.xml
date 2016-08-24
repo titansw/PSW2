@@ -3,12 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/P:/PSW2/Hibernate01/web/index.html</file>
-            <file>file:/P:/PSW2/Hibernate01/src/java/TesteSelect.java</file>
-            <file>file:/P:/PSW2/Hibernate01/src/java/HibernateUtil.java</file>
-            <file>file:/P:/PSW2/Hibernate01/src/java/Produto.java</file>
-            <file>file:/P:/PSW2/Hibernate01/src/java/Teste.java</file>
-            <file>file:/P:/PSW2/Hibernate01/src/java/hibernate.cfg.xml</file>
+            <file>file:/P:/PSW2/PSW2/Hibernate01/src/java/Teste.java</file>
+            <file>file:/P:/PSW2/PSW2/Hibernate01/src/java/Produto.java</file>
+            <file>file:/P:/PSW2/PSW2/Hibernate01/src/java/TesteSelect.java</file>
+            <file>file:/P:/PSW2/PSW2/Hibernate01/web/index.html</file>
         </group>
     </open-files>
 </project-private>
